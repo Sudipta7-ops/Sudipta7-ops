@@ -19,7 +19,7 @@ Currently deepening my skills in backend systems, API design, and DevOps.
 `Django` `Django REST Framework` `JWT Authentication`
 
 **Databases**
-`SQLite` `PostgreSQL (basics)`
+`SQLite` 
 
 **Tools**
 `Git` `GitHub` `Postman` `VS Code` 
